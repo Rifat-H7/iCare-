@@ -1,0 +1,12 @@
+E:\iCare\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+E:\iCare\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+E:\iCare\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+E:\iCare\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+E:\iCare\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+E:\iCare\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+D:\Projects\iCare\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+D:\Projects\iCare\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+D:\Projects\iCare\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+D:\Projects\iCare\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\Projects\iCare\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+D:\Projects\iCare\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
